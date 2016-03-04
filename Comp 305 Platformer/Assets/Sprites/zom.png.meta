@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 44c8ffa2d23f6304eb98758abf67a2b4
+timeCreated: 1456847518
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zom_0
+    21300002: zom_1
+    21300004: zom_2
+    21300006: zom_3
+    21300008: zom_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zom_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 306
+        width: 599
+        height: 800
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.40886757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.309067, y: 225.28294}
+        - {x: -9.690933, y: 225.28294}
+        - {x: -32.690933, y: 213.28294}
+        - {x: -32.690933, y: -151.71706}
+        - {x: -21.690933, y: -151.71706}
+        - {x: -14.690933, y: -136.71706}
+        - {x: 3.3090668, y: -151.71706}
+        - {x: 39.309067, y: -151.71706}
+    - name: zom_1
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 330
+        width: 500
+        height: 800
+      alignment: 9
+      pivot: {x: 0.43171424, y: 0.380763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131.11209, y: 124.77713}
+        - {x: 119.11209, y: 123.77713}
+        - {x: 62.11209, y: 109.77713}
+        - {x: 53.11209, y: 114.77713}
+        - {x: 68.11209, y: 115.77713}
+        - {x: 135.11209, y: 145.77713}
+        - {x: 135.11209, y: 170.77713}
+        - {x: 39.11209, y: 223.77713}
+        - {x: -17.887909, y: 223.77713}
+        - {x: -29.887909, y: 208.77713}
+        - {x: -29.887909, y: -144.22287}
+        - {x: 110.11209, y: -144.22287}
+        - {x: 135.11209, y: -113.22287}
+        - {x: 135.11209, y: 123.77713}
+    - name: zom_2
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 328
+        width: 500
+        height: 770
+      alignment: 9
+      pivot: {x: 0.44054517, y: 0.41243657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.598022, y: -150.40146}
+        - {x: 48.598022, y: -150.40146}
+        - {x: 133.59802, y: 85.59854}
+        - {x: 133.59802, y: 177.59854}
+        - {x: 34.598022, y: 212.59854}
+        - {x: -24.401978, y: 212.59854}
+        - {x: -43.401978, y: 189.59854}
+        - {x: -46.401978, y: -80.40146}
+        - {x: -46.401978, y: -150.40146}
+        - {x: -38.401978, y: -150.40146}
+        - {x: -10.401978, y: -86.40146}
+        - {x: 0.59802246, y: -53.40146}
+        - {x: 37.598022, y: -148.40146}
+    - name: zom_3
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 316
+        width: 500
+        height: 800
+      alignment: 9
+      pivot: {x: 0.3308584, y: 0.40522203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.79773, y: 133.3945}
+        - {x: 154.79773, y: 135.3945}
+        - {x: 158.79773, y: 136.3945}
+        - {x: 158.79773, y: 141.3945}
+        - {x: 157.79773, y: 146.3945}
+        - {x: 117.79773, y: 184.3945}
+        - {x: 43.79773, y: 221.3945}
+        - {x: -30.20227, y: 221.3945}
+        - {x: -30.20227, y: -153.6055}
+        - {x: 73.79773, y: -153.6055}
+        - {x: 158.79773, y: -82.6055}
+        - {x: 158.79773, y: 133.3945}
+        - {x: 131.79773, y: 133.3945}
+    - name: zom_4
+      rect:
+        serializedVersion: 2
+        x: 3578
+        y: 327
+        width: 500
+        height: 800
+      alignment: 9
+      pivot: {x: 0.3856963, y: 0.4037117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139.00671, y: 113.170944}
+        - {x: 139.00671, y: 145.17094}
+        - {x: 138.00671, y: 145.17094}
+        - {x: 30.006714, y: 221.17094}
+        - {x: -13.993286, y: 221.17094}
+        - {x: -29.993286, y: 208.17094}
+        - {x: -29.993286, y: 125.170944}
+        - {x: -5.993286, y: -149.82906}
+        - {x: -1.9932861, y: -152.82906}
+        - {x: 6.006714, y: -152.82906}
+        - {x: 10.006714, y: -114.829056}
+        - {x: 19.006714, y: -146.82906}
+        - {x: 35.006714, y: -141.82906}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

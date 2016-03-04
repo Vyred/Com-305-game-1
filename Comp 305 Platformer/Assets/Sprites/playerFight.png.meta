@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 009589b4f1f5c0341b31a54f6e2b0490
+timeCreated: 1456883073
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: playerFight_0
+    21300002: playerFight_1
+    21300004: playerFight_2
+    21300006: playerFight_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: playerFight_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 58
+        width: 550
+        height: 800
+      alignment: 9
+      pivot: {x: 0.48173574, y: 0.41585037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.376602, y: 284.09494}
+        - {x: -41.376602, y: 256.09494}
+        - {x: -47.376602, y: 246.09494}
+        - {x: -47.376602, y: -210.90506}
+        - {x: 38.623398, y: -210.90506}
+        - {x: 47.623398, y: -192.90506}
+        - {x: 47.623398, y: 284.09494}
+      - - {x: -143.3766, y: -11.90506}
+        - {x: -141.3766, y: -13.90506}
+        - {x: -138.3766, y: -12.90506}
+        - {x: -138.3766, y: -9.90506}
+        - {x: -140.3766, y: -7.90506}
+        - {x: -143.3766, y: -8.90506}
+    - name: playerFight_1
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 50
+        width: 550
+        height: 800
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45179135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67.48645, y: 174.75197}
+        - {x: 63.48645, y: 160.75197}
+        - {x: 49.48645, y: 162.75197}
+        - {x: 59.48645, y: 201.75197}
+        - {x: 54.48645, y: 245.75197}
+        - {x: 36.48645, y: 271.75195}
+        - {x: -19.51355, y: 271.75195}
+        - {x: -49.51355, y: 258.75195}
+        - {x: -119.51355, y: -207.24803}
+        - {x: -119.51355, y: -225.24803}
+        - {x: 40.48645, y: -225.24803}
+        - {x: 86.48645, y: -195.24803}
+        - {x: 86.48645, y: 186.75197}
+        - {x: 70.48645, y: 179.75197}
+      - - {x: -107.51355, y: -187.24803}
+        - {x: -104.51355, y: -186.24803}
+        - {x: -104.51355, y: -183.24803}
+        - {x: -107.51355, y: -182.24803}
+        - {x: -109.51355, y: -184.24803}
+      - - {x: -105.51355, y: -179.24803}
+        - {x: -105.51355, y: -180.24803}
+        - {x: -103.51355, y: -182.24803}
+        - {x: -102.51355, y: -182.24803}
+        - {x: -99.51355, y: -179.24803}
+        - {x: -99.51355, y: -177.24803}
+        - {x: -102.51355, y: -176.24803}
+    - name: playerFight_2
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 51
+        width: 550
+        height: 800
+      alignment: 9
+      pivot: {x: 0.39481756, y: 0.4566123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.39136, y: -206.06245}
+        - {x: 90.39136, y: -100.062454}
+        - {x: 91.39136, y: -86.062454}
+        - {x: 210.39136, y: 128.93755}
+        - {x: 210.39136, y: 149.93755}
+        - {x: 37.391357, y: 265.93756}
+        - {x: -9.608643, y: 265.93756}
+        - {x: -47.608643, y: 242.93755}
+        - {x: -34.608643, y: 202.93755}
+        - {x: -17.608643, y: 183.93755}
+        - {x: -116.60864, y: -216.06245}
+        - {x: -116.60864, y: -231.06245}
+        - {x: -107.60864, y: -231.06245}
+        - {x: -102.60864, y: -225.06245}
+        - {x: 54.391357, y: -216.06245}
+        - {x: 60.391357, y: -215.06245}
+      - - {x: -104.60864, y: -193.06245}
+        - {x: -101.60864, y: -192.06245}
+        - {x: -101.60864, y: -189.06245}
+        - {x: -104.60864, y: -188.06245}
+        - {x: -106.60864, y: -190.06245}
+      - - {x: -102.60864, y: -185.06245}
+        - {x: -102.60864, y: -186.06245}
+        - {x: -100.60864, y: -188.06245}
+        - {x: -99.60864, y: -188.06245}
+        - {x: -96.60864, y: -185.06245}
+        - {x: -96.60864, y: -183.06245}
+        - {x: -99.60864, y: -182.06245}
+    - name: playerFight_3
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 43
+        width: 550
+        height: 800
+      alignment: 9
+      pivot: {x: 0.47896352, y: 0.46625388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.52417, y: 165.9575}
+        - {x: 59.52417, y: 149.9575}
+        - {x: 53.52417, y: 155.9575}
+        - {x: 47.52417, y: 154.9575}
+        - {x: 41.52417, y: 144.9575}
+        - {x: 59.52417, y: 258.95752}
+        - {x: 33.52417, y: 265.95752}
+        - {x: -51.47583, y: 265.95752}
+        - {x: -62.47583, y: 262.95752}
+        - {x: -122.47583, y: -207.0425}
+        - {x: -122.47583, y: -231.0425}
+        - {x: 84.52417, y: -231.0425}
+        - {x: 84.52417, y: 179.9575}
+        - {x: 67.52417, y: 173.9575}
+      - - {x: -112.47583, y: -190.0425}
+        - {x: -111.47583, y: -193.0425}
+        - {x: -108.47583, y: -193.0425}
+        - {x: -106.47583, y: -191.0425}
+        - {x: -107.47583, y: -188.0425}
+        - {x: -110.47583, y: -188.0425}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
