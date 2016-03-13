@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_Scenes/Main.unity
+- path: C:/Users/Matthew/Documents/GitHub/comp305_3D_Shooter/Assets/_Scenes/Main.unity
   isLoaded: 1
   isActive: 1
