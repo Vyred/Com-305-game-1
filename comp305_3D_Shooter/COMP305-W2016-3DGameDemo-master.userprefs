@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Generate.cs">
+    <Files>
+      <File FileName="Assets\_Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="149" Column="33" />
+      <File FileName="Assets\PlayerInteraction.cs" Line="19" Column="3" />
+      <File FileName="Assets\_Standard Assets\Utility\SmoothFollow.cs" Line="48" Column="1" />
+      <File FileName="Assets\Scripts\Generate.cs" Line="37" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
